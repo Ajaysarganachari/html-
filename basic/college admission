@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>college admmision form</title>
+        <body background="./4893798.webp">
+            <center>
+            <p>
+                D Y PATIL COLLEGE OF ENGINEERING
+AKURDI, PUNE
+APPROVED BY AICTE , RECOGNIZED BY DTE (GOVT.) &
+AFFILIATED TO SAVITRIBAI PHULE PUNE UNIVERSITY
+Accredited by NAAC with 'A' Grade is an Autonomous
+Institute with effect from the Academic Year 2024-2025.
+            </p>    
+             <img src="./OIP (1).jpg" alt="">
+             <form>
+<label>age=</label>
+<input type="age" name="age" id=""><br>
+<label>phone number</label>
+<input type="number" maxlength="10" name="number" id=""><br>
+<label>address=</label>
+<input type="address" name="address" id="" ><br>
+<label for="gender">
+    gender:
+    male<input type="radio" name="gender" id="" ><br>
+    female<input type="radio" name="gender" id="" ><br>
+    <label>dob=</label>
+    <input type="date" name="date" id=""><br>
+    <label>
+        corse:
+        <select name="COURSE" id="">
+            <option value:="BBA">BBA</option>
+            <option value="BCS">BCS</option>
+            <option value="BBA(CA)">BBA(CA)</option>
+            <option value="BA">BA</option>
+     </select></label>
+
+</form>
+            </center>
+            <h2>THE DYP</h2>
+            <P>Dr. D. Y. Patil Prathishthan's, D.Y. Patil College of Engineering, was established in 1984 in Pimpri and later shifted to Akurdi complex in 2001, which is in the vicinity of Pimpri Chinchwad Industrial area, one of the biggest Industrial belts in Asia. The college spreads over 10 acres of land with seven Engineering disciplines. This Institute is approved by AICTE, New Delhi and is affiliated to the Savitribai Phule Pune University. D Y Patil College of Engineering has been granted Autonomous status from the Academic Year 2024-25
+
+                The college has excellent & ambient infrastructure with well-equipped laboratories. Well-qualified, motivated, and dedicated faculty members are serving in the Institute. Students are encouraged to actively participate in National and State level co-curricular and extracurricular activities. The institute has well planned boys and girls hostel in the campus with better amenities and ultra-modern facilities.</P>
+              <center>  <img src="./dy patil college.jpg" alt="">
+            <h2>ABOUT THE DYP</h2>
+        <P>
+           <h3> DY Patil University (DYPU), Pune is a private university, from the DY Patil Group of Institutions. Established in 1983 by the government of Maharashtra, the university has secured an A++ NAAC Grade. DY Patil University is renowned for its academic excellence and innovative teaching methods. Additionally, DY Patil University is approved by the UGC, AICTE, PCI, COA, and BCI, New Delhi. The university campus is spread across 100 acres of land with 8 schools of study and 2 colleges.
+
+            DY Patil University Pune offers 15 full-time Undergraduate, Postgraduate, and PhD courses. The programs range in the fields of Pharmacy, Architecture, Engineering and Technology, Hotel Management and Tourism Studies, Law, etc. The flagship UG courses include B.Arch, B Des., and B.Tech (Integrated). Moreover, PG flagship courses offered by DY Patil University (DYPU) are M.Arch, M.Tech, MBA, MCA, and MCA, Ph.D. 
+            
+            Admissions to UG and PG courses are based on national level entrance exams, personal interviews, and more. Some of the entrance exams accepted are JEE Main/MHT CET/ NATA/ GATE/ UCEED/ NID/ MAH MBA CET/ ATMA/ CAT and more.
+            
+            DY Patil University placement cell offers high packages in the annual placement drives. The highest CTC has gone up to INR 11 LPA, whereas the average package was INR 4 LPA. Top companies such as IBM, KPIT Technologies, TATA Consultancy, Infosys and more participate in the placement drives each year.</h3>
+</P>
+<video src="./12747405_1920_1080_25fps.mp4" controls alt="" width="500px"></video>
+<div>
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/Hfj5PP6pOxM?si=sS0c2fQrqdrbdqj0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</div>
+
+
+</center>
+</head>
+
+</html>
